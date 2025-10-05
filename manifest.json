@@ -1,0 +1,66 @@
+{
+  "years": [
+    {
+      "name": "1st Year",
+      "branches": [
+        {
+          "name": "All branches",
+          "subjects": [
+            {
+              "name": "Mathematics(M1)",
+              "resources": [
+                {
+                  "title": "Module 1-5",
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/11NwSokS_Bbnavjb-YREg5MkoJQVyZzn6?usp=drive_link",
+                  "meta": {
+                    "added": "2025-10-05 18:24:54.828735"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Mathematics(M2)",
+              "resources": [
+                {
+                  "title": "Module 1-5",
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/1RyqA7BdZaHELbbClJE8NIVDdtxp6b1bx?usp=drive_link",
+                  "meta": {
+                    "added": "2025-10-05 18:27:02.578423"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Physics",
+              "resources": [
+                {
+                  "title": "All Modules ",
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/11qv9EvL9yZUVlWIDciekkrgC7ca8bRcp?usp=drive_link",
+                  "meta": {
+                    "added": "2025-10-05 18:28:30.373683"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chemistry",
+              "resources": [
+                {
+                  "title": "Module 1-5",
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/11tenuSgvFob9NgW3jlenHUeEfGVvFIng?usp=drive_link",
+                  "meta": {
+                    "added": "2025-10-05 18:29:29.905135"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
